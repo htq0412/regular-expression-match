@@ -1,0 +1,4 @@
+C:\Users\Smile\PycharmProjects\pythonProject\venv\Scripts\python.exe C:/Users/Smile/Desktop/新建文件夹/正则表达式匹配/磁力链接匹配/磁力链接.py
+<re.Match object; span=(9748, 60283), match='magnet:?xt=urn:btih:A5076F3353DB7D6FFCF4F535AFBA9>
+
+进程已结束,退出代码0

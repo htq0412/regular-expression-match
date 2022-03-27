@@ -1,0 +1,4 @@
+C:\Users\Smile\PycharmProjects\pythonProject\venv\Scripts\python.exe C:/Users/Smile/Desktop/新建文件夹/正则表达式匹配/邮箱匹配/邮箱.py
+<re.Match object; span=(13939, 13956), match='1425927982@qq.com'>
+
+进程已结束,退出代码0
